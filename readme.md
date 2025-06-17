@@ -69,7 +69,7 @@ You’ll be prompted to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/calendar-cyber-tool.git
+git clone https://github.com/abhizha11/calendar-cyber-tool.git
 cd calendar-cyber-tool
 ```
 
