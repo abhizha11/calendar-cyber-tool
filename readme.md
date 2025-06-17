@@ -2,12 +2,12 @@
 
 ## 🧰 About the Project
 
-This project provides two powerful tools — a **GUI** and a **CLI** — to:
+This project provides two powerful tools — a GUI and a CLI — to:
 
 - 📅 Display full-year calendars
 - 🔁 Find years with identical calendars
 - 🔍 Compare two calendar years for exact match
-- 🛡️ Fetch **cybersecurity incidents** from CISA for any year
+- 🛡️ Fetch cybersecurity incidents from CISA for any year
 
 ---
 
@@ -97,12 +97,6 @@ All cyber threat data is pulled from:
 - 🛡️ [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 This ensures you stay updated with real-world cybersecurity incident history by year.
-
----
-
-## ✨ Screenshots
-
-*You can add screenshots of GUI here if needed.*
 
 ---
 
